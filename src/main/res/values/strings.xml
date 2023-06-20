@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">MyMusicCompose</string>
+    <string name="instrument_name">Nama Instrumen</string>
+    <string name="description">Deskripsi</string>
+    <string-array name="data_name">
+        <item>Gitar</item>
+        <item>Drum</item>
+        <item>Piano</item>
+        <item>Bass</item>
+        <item>Flute</item>
+        <item>Saxophone</item>
+        <item>Violin</item>
+        <item>Harmonika</item>
+        <item>Trumpet</item>
+        <item>Recorder</item>
+        <item>Kendhang</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Gitar adalah salah satu alat musik senar paling populer di dunia. Alat musik ini terdiri dari sebuah kotak resonansi berbentuk setengah bola, leher yang panjang dan datar, dan enam senar yang terbuat dari nilon atau baja. Gitar dimainkan dengan memetik senar dengan jari atau menggunakan alat bantu seperti plektrum.</item>
+        <item>Drum adalah salah satu alat musik perkusi paling dasar dan penting. Drum terdiri dari sebuah kulit yang direntangkan di atas sebuah rangka dan dipukul dengan tongkat atau tangan. Drum dapat memiliki berbagai ukuran dan bentuk, termasuk bass drum, snare drum, tom-tom, dan banyak lagi.</item>
+        <item>Piano adalah sebuah instrumen keyboard yang terdiri dari ratusan kunci dan mekanisme yang menghasilkan suara dengan cara memukul dawai di dalamnya dengan pemukul atau palu. Piano umumnya dimainkan dengan jari, dan dapat menghasilkan berbagai macam dinamika dan nuansa musik. </item>
+        <item>Bass adalah sebuah alat musik senar yang biasanya memiliki empat, lima, atau enam senar. Bass dimainkan dengan memetik atau menggesek senar, dan memberikan dasar harmoni dan ritme untuk lagu. </item>
+        <item>Flute adalah sebuah instrumen tiup yang terbuat dari logam atau kayu. Flute dimainkan dengan mengembuskan udara ke dalamnya dan menutup atau membuka lubang-lubang yang ada di atasnya dengan jari. </item>
+        <item>Saxophone adalah sebuah instrumen tiup yang terbuat dari logam dan dimainkan dengan meniup ke dalamnya dan menekan tombol yang ada di atasnya. </item>
+        <item>Violin adalah sebuah alat musik senar yang dimainkan dengan menggesek senarnya dengan busur. Violin memiliki suara yang khas dan indah. </item>
+        <item>Harmonika adalah sebuah instrumen tiup yang terdiri dari sebuah rangkaian reed yang dimainkan dengan mengembuskan udara ke dalamnya melalui lubang yang ada di atasnya. </item>
+        <item>Trumpet adalah alat musik tiup logam. Terletak pada jajaran tertinggi di antara tuba, eufonium, trombon, sousafon, French horn, dan Bariton. Trompet di-pitch di B♭. </item>
+        <item>Recorder adalah alat musik yang sumber suaranya berasal dari tekanan udara yang ditiup sehingga menghasilkan instrumen yang bersifat melodis. Oleh karena itulah, rekorder menjadi alat musik yang tidak bisa dimainkan sendiri.</item>
+        <item>Kendhang atau gendang adalah instrumen dalam gamelan yang salah satu fungsi utamanya mengatur irama. Instrument ini dibunyikan dengan tangan, tanpa alat bantu. Jenis kendhang yang kecil disebut ketipung, yang menengah disebut kendhang ciblon/kebar. Pasangan ketipung ada satu lagi bernama rony gedhe, biasa disebut kendhang kalih.</item>
+    </string-array>
+    <string name="info_tambahan">Informasi Tambahan :</string>
+    <string name="share_message">Halo, saya telah membeli instrumen di MyMusicApps!!</string>
+    <string name="menu_home_title">Home</string>
+    <string name="menu_cart_title">Keranjang</string>
+    <string name="menu_profile_title">Profile</string>
+    <string name="home_page">home_page</string>
+    <string name="cart_page">cart_page</string>
+    <string name="about_page">about_page</string>
+    <string name="required_money">Rp %.1f jt</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </string>
+    <string name="minus_symbol">—</string>
+    <string name="plus_symbol">＋</string>
+    <string name="add_to_cart">Tambah ke Keranjang : Rp %.1f jt</string>
+    <string name="total_order">Total pesanan : Rp %.1f jt</string>
+    <string name="back">Back</string>
+    <string name="music_instrument">My Music Instrument</string>
+    <string name="about">About</string>
+    <string name="about_value">Saya adalah mahasiswa Teknik Informatika dari Universitas Brawijaya. Pada semester ini saya mengikuti kegiatan Bangkit Academy dengan fokus belajar Mobile Learning Path. Berdasarkan pembagian cluster, saya termasuk Cohort Bangkit pada grup MD-43.</string>
+    <string name="name">Nama  :</string>
+    <string name="name_value">Reza Agung Nugraha</string>
+    <string name="email">Email  :</string>
+    <string name="email_value">A151DSX1153@bangkit.academy</string>
+</resources>
